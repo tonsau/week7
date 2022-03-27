@@ -36,7 +36,7 @@ html {
 }
 
 .container h3 {
-    margin: 2rem;
+    margin: 0.5rem;
     color: rgb(0, 255, 255);
     text-transform: capitalize;
 }
